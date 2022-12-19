@@ -1,0 +1,45 @@
+body {
+    font-family:monospace;
+}
+
+body.home {
+    text-align:center;
+}
+
+.home li {
+    font-size:50px;
+}
+
+
+#recipe {
+    background-color:lightcoral;
+}
+
+.home {
+    background-color:lightblue;
+    color:white;
+}
+
+#homeimg {
+    width:35%;
+    height:auto;
+}
+
+
+h1.home {
+    font-size:80px;
+}
+
+
+.info {
+    font-size:20px;
+}
+
+.dish {
+    font-size:50px;
+}
+
+#recipe img {
+    width:20%;
+    height:auto;
+}
